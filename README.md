@@ -12,7 +12,7 @@ I love photography and music, I have been playing drums since I was 10 years old
 - Python - Java - Sql - JavaScript - TypeScript - Php - Html - Css
 
 ⚡ Technologies:
-- React - .ENV - Bootstrap - Nodejs - Express - Typeorm - React Native - Nodemon - Expo
+- React - .ENV - Bootstrap - Nodejs - Express - Typeorm - React Native - Nodemon - Expo -jQuery
 
 😄 I don't really care about money, I love learning, and I love what I do.
 
