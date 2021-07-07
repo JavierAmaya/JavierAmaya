@@ -8,7 +8,7 @@ my dreams and the hopes of my parents, who bet all their life, because I became 
 I love photography and music, I have been playing drums since I was 10 years old.
 
 ⚡ Technologies:
-- Python - Java - Sql - JavaScript - TypeScript - Php - Html - Css - React - .ENV - Bootstrap - Nodejs - Express - Typeorm - React Native - Nodemon - Expo -jQuery
+- Python - Java - Sql - JavaScript - TypeScript - Php - Html - Css - React - .ENV - Bootstrap - Nodejs - Express - Typeorm - React Native - Expo -jQuery
 
 😄 I don't really care about money, I love learning, and I love what I do.
 
