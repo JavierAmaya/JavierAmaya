@@ -2,7 +2,7 @@ Hello 👋 , my name is Victor Javier Amaya and I am currently a graduate studen
 in Systems Engineering at the National Autonomous University of Honduras (UNAH).
 
 A bit of me: 
-I am a 21-year-old young man from a small town called La Union - Olancho - Honduras, 
+I am a 24-year-old young man from a small town called La Union - Olancho - Honduras, 
 I arrived in the big city with my suitcases and my little box of food, carrying all 
 my dreams and the hopes of my parents, who bet all their life, because I became a professional.
 I love photography and music, I have been playing drums since I was 10 years old.
