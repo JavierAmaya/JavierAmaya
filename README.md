@@ -14,7 +14,7 @@ I'm Victor Amaya, a seasoned Senior Software Engineer with a passion for craftin
 
 My toolbox includes:
 
-- Python 🐍
+- <img align="left" alt="LaTeX" width="54px" src="https://logowik.com/content/uploads/images/python4089.logowik.com.webp" />
 - Solidity 💼
 - XML 📄
 - JavaScript (JS) 🌐
