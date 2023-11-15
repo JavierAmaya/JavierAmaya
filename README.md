@@ -14,7 +14,7 @@ I'm Victor Amaya, a seasoned Senior Software Engineer with a passion for craftin
 
 My toolbox includes:
 
-- ![Python](https://example.com/python-icon.png) Python 🐍
+- ![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw0rWM_6B2DeTrfbKTPf583P&ust=1700151964339000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODc-eC1xoIDFQAAAAAdAAAAABAE) Python 🐍
 - ![Solidity](https://example.com/solidity-icon.png) Solidity 💼
 - ![XML](https://example.com/xml-icon.png) XML 📄
 - ![JavaScript](https://example.com/js-icon.png) JavaScript (JS) 🌐
