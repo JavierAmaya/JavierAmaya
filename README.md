@@ -2,10 +2,6 @@
 
 I'm Victor Amaya, a seasoned Senior Software Engineer with a passion for crafting technology solutions and managing projects in diverse environments. I specialize in the development and customization of Odoo structures, Web3 Technologies, and I have a wealth of experience in various tech domains.
 
-## Listening
-[![Spotify](https://novatorem-2.vercel.app/api/spotify)](https://open.spotify.com/user/photojav)
-
-
 ## 🚀 Specialization
 
 - Web3 ERC6551, SmartContracts, Wallets 
