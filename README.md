@@ -41,8 +41,6 @@ My toolbox includes:
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## 👨‍💼 Professional Journey
 
