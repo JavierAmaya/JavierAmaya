@@ -14,13 +14,13 @@ I'm Victor Amaya, a seasoned Senior Software Engineer with a passion for craftin
 
 My toolbox includes:
 
-- ![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw0rWM_6B2DeTrfbKTPf583P&ust=1700151964339000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODc-eC1xoIDFQAAAAAdAAAAABAE) Python 🐍
-- ![Solidity](https://example.com/solidity-icon.png) Solidity 💼
-- ![XML](https://example.com/xml-icon.png) XML 📄
-- ![JavaScript](https://example.com/js-icon.png) JavaScript (JS) 🌐
-- ![Web Development](https://example.com/web-dev-icon.png) Web Development (Angular, React, NextJS, TypeScript, JS) 🌐
-- ![Database Design](https://example.com/db-icon.png) Database Design (PostgreSQL, MySQL, MongoDB, Oracle) 🗄️
-- ![API Development](https://example.com/api-icon.png) API Development 🚀
+- Python 🐍
+- Solidity 💼
+- XML 📄
+- JavaScript (JS) 🌐
+- Web Development (Angular, React, NextJS, TypeScript, JS) 🌐
+- Database Design (PostgreSQL, MySQL, MongoDB, Oracle) 🗄️
+- API Development 🚀
 
 ## 👨‍💼 Professional Journey
 
