@@ -41,7 +41,8 @@ My toolbox includes:
 <br>
 <br>
 <br>
-
+<br>
+<br>
 ## 👨‍💼 Professional Journey
 
 Throughout my career, I've worn various hats, including:
