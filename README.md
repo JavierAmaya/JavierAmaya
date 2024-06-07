@@ -17,6 +17,7 @@ My toolbox includes:
 <img align="left" alt="Python" width="54px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />
 <img align="left" alt="odoo" width="54px" src="https://cdn4.iconfinder.com/data/icons/logos-3/640/odoo_logo_rgb-1024.png" />
 <img align="left" alt="Solidity" width="54px" src="https://github.com/github/explore/blob/main/topics/solidity/solidity.png" />
+<img align="left" alt="Solidity" width="54px" src="https://github.com/github/explore/blob/main/topics/go/go.png" />
 <img align="left" alt="ETH" width="54px" src="https://github.com/github/explore/blob/main/topics/ethereum/ethereum.png" />
 <img align="left" alt="solana" width="54px" src="https://github.com/github/explore/blob/main/topics/solana/solana.png" />
 <img align="left" alt="JS" width="54px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />
